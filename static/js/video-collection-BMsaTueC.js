@@ -1,0 +1,1 @@
+import{aP as t,aX as o}from"./index-z501862F.js";const s="/sdVideoCollection",r=e=>t.request("post",o(`${s}/create`),{data:e}),a=e=>t.request("get",o(`${s}/list`),{data:e}),d=e=>t.request("put",o(`${s}/update`),{data:e}),i=e=>t.request("delete",o(`${s}/delete/${e}`));export{r as a,i as d,a as l,d as u};
