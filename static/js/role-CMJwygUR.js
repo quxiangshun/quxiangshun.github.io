@@ -1,0 +1,1 @@
+import{aP as t,aX as s}from"./index-vTRDVSJy.js";const l="/sysRole",a=e=>t.request("post",s(`${l}/create`),{data:e}),o=e=>t.request("get",s(`${l}/list`),{params:e}),u=e=>t.request("put",s(`${l}/update`),{data:e}),n=e=>t.request("delete",s(`${l}/delete/${e}`)),p=e=>t.request("get",s(`${l}/listAll`),{params:e});export{o as a,a as b,n as d,p as l,u};
