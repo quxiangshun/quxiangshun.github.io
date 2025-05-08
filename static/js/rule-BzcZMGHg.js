@@ -1,0 +1,1 @@
+import{P as e}from"./index-B7W7rs76.js";const s=e({name:[{required:!0,message:"标签名称为必填项",trigger:"blur"}]}),a=e({name:[{required:!0,message:"标签名称为必填项",trigger:"blur"}]}),u=e({parentId:[{required:!0,message:"标签名称为必填项",trigger:["blur","change"]}]});export{u as c,s as f,a as s};
