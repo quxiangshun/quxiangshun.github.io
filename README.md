@@ -1,2 +1,0 @@
-# quxiangshun.gitcode.io
-
