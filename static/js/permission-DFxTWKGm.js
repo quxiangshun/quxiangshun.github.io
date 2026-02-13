@@ -1,1 +1,0 @@
-import{aP as e,aX as t}from"./index-vTRDVSJy.js";const r="/permission",n=s=>e.request("get",t(`${r}/getMenuIdList/${s}`)),a=s=>e.request("post",t(`${r}/assignForRole`),{data:s}),g=s=>e.request("get",t(`${r}/getRoleIds/${s}`)),i=s=>e.request("post",t(`${r}/assignRoleForUser`),{data:s});export{a,i as b,g,n as l};

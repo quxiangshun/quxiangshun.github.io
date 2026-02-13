@@ -1,1 +1,0 @@
-import e from"./ItemWrapper-Dhv26XkH.js";import{d as t,i as o,o as r,j as a,f as n}from"./index-B7W7rs76.js";const s=n("div",null,null,-1),l=t({__name:"CenterBottom",setup(_){return(c,p)=>(r(),o(e,{title:"安装计划"},{default:a(()=>[s]),_:1}))}});export{l as _};

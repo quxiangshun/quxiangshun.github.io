@@ -1,1 +1,0 @@
-import e from"./ItemWrapper-Dhv26XkH.js";import{d as t,i as o,o as a,j as r,f as s}from"./index-B7W7rs76.js";const n=s("div",null,null,-1),m=t({__name:"LeftTop",setup(_){return(p,c)=>(a(),o(e,{title:"设备总览"},{default:r(()=>[n]),_:1}))}});export{m as _};

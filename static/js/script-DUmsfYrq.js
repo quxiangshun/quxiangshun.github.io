@@ -1,1 +1,0 @@
-import{aP as e,aX as r}from"./index-B7W7rs76.js";const s="/sdScript",p=t=>e.request("post",r(`${s}/create`),{data:t}),u=t=>e.request("get",r(`${s}/list`),{params:t}),c=t=>e.request("put",r(`${s}/update`),{data:t}),d=t=>e.request("delete",r(`${s}/delete/${t}`));export{p as a,d,u as g,c as u};

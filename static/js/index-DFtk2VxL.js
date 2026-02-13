@@ -1,1 +1,0 @@
-import o from"./FilterPanel-DeQRppRl.js";import t from"./VideoSection-DEALzaMS.js";import{d as r,c as n,o as a,e}from"./index-z501862F.js";import"./VideoRecord-dr9kjiMH.js";const _=r({name:"VideoJ",__name:"index",setup(i){return(m,c)=>(a(),n("div",null,[e(o),e(t)]))}});export{_ as default};

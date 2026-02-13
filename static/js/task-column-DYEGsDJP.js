@@ -1,1 +1,0 @@
-import{aP as e,aX as s}from"./index-z501862F.js";const a="/sdTaskColumn",u=t=>e.request("post",s(`${a}/create`),{data:t}),n=t=>e.request("get",s(`${a}/list`),{data:t}),o=t=>e.request("put",s(`${a}/update`),{data:t}),l=t=>e.request("delete",s(`${a}/delete/${t}`)),p=()=>e.request("get",s(`${a}/types`));export{u as a,l as d,n as l,p as t,o as u};

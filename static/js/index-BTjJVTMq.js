@@ -1,1 +1,0 @@
-import{_ as o}from"./FilterPanel.vue_vue_type_style_index_0_lang-DFPDDX2v.js";import t from"./VideoSection-eIhJ6Aem.js";import{d as n,c as r,o as a,e}from"./index-B7W7rs76.js";import"./VideoRecord-QDfmeTgq.js";const f=n({name:"VideoJ",__name:"index",setup(m){return(c,i)=>(a(),r("div",null,[e(o),e(t)]))}});export{f as default};
