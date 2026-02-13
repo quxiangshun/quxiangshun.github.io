@@ -1,0 +1,1 @@
+import e from"./ItemWrapper-r8waTYto.js";import{d as t,i as o,o as a,j as r,f as s}from"./index-vTRDVSJy.js";const n=s("div",null,null,-1),m=t({__name:"RightTop",setup(_){return(p,c)=>(a(),o(e,{title:"报警次数"},{default:r(()=>[n]),_:1}))}});export{m as _};

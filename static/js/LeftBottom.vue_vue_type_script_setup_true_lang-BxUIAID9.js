@@ -1,0 +1,1 @@
+import e from"./ItemWrapper-Ao9RyDZW.js";import{d as t,i as o,o as a,j as r,f as s}from"./index-_ppfBu12.js";const n=s("div",null,null,-1),l=t({__name:"LeftBottom",setup(_){return(c,p)=>(a(),o(e,{title:"设备提醒"},{default:r(()=>[n]),_:1}))}});export{l as _};

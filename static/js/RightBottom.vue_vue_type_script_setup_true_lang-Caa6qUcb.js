@@ -1,0 +1,1 @@
+import t from"./ItemWrapper-r8waTYto.js";import{d as e,i as o,o as a,j as r,f as s}from"./index-vTRDVSJy.js";const n=s("div",null,null,-1),l=e({__name:"RightBottom",setup(_){return(c,i)=>(a(),o(t,{title:"数据统计图"},{default:r(()=>[n]),_:1}))}});export{l as _};

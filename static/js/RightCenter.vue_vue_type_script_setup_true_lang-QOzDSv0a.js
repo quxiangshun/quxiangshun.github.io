@@ -1,0 +1,1 @@
+import e from"./ItemWrapper-Dhv26XkH.js";import{d as t,i as o,o as r,j as a,f as n}from"./index-B7W7rs76.js";const s=n("div",null,null,-1),m=t({__name:"RightCenter",setup(_){return(c,i)=>(r(),o(e,{title:"报警排名"},{default:a(()=>[s]),_:1}))}});export{m as _};

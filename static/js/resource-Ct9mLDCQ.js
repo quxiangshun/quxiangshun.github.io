@@ -1,0 +1,1 @@
+const t=[{name:"AxureRP-Pro 7.0",type:"axure7",href:"https://pan.baidu.com/s/1gQ7-ausVLfBCKT3R7AsdoQ?pwd=edsq",link1:"https://www.panmishu.cn/index/t/index.html?sn=62025050809371448",link2:"https://www.w7r.cn/details/1638BA75"}],s=[].concat(t);export{s as c,t as p};
