@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,ag as i}from"./chunks/framework.DEqXEGcv.js";const u=JSON.parse('{"title":"Ly Docs","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"};function o(r,a,l,p,c,d){return t(),s("div",null,[...a[0]||(a[0]=[i("",36)])])}const g=e(n,[["render",o]]);export{u as __pageData,g as default};
