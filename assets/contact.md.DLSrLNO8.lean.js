@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,a2 as s}from"./chunks/framework.C766EroN.js";const d=JSON.parse('{"title":"联系我们","description":"","frontmatter":{},"headers":[],"relativePath":"contact.md","filePath":"contact.md"}'),i={name:"contact.md"};function o(l,e,n,h,u,c){return a(),r("div",null,[...e[0]||(e[0]=[s("",30)])])}const b=t(i,[["render",o]]);export{d as __pageData,b as default};
