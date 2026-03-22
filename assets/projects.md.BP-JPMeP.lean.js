@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a2 as l}from"./chunks/framework.C766EroN.js";const d=JSON.parse('{"title":"项目列表","description":"","frontmatter":{},"headers":[],"relativePath":"projects.md","filePath":"projects.md"}'),o={name:"projects.md"};function i(n,e,s,h,u,g){return t(),r("div",null,[...e[0]||(e[0]=[l("",39)])])}const p=a(o,[["render",i]]);export{d as __pageData,p as default};
