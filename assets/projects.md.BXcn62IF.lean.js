@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a2 as o}from"./chunks/framework.COr20JJv.js";const p=JSON.parse('{"title":"项目列表","description":"","frontmatter":{},"headers":[],"relativePath":"projects.md","filePath":"projects.md"}'),l={name:"projects.md"};function i(n,e,s,h,u,g){return t(),r("div",null,[...e[0]||(e[0]=[o("",46)])])}const d=a(l,[["render",i]]);export{p as __pageData,d as default};
